@@ -113,7 +113,7 @@ ai-avatar-studio/
 ├── requirements.md
 ├── design.md
 ├── README.md
-└── AI_Avatar_Studio_Short_Video_Ketan_Pundirr.pdf
+└── AI_Avatar_Studio_Short_Video_Ketan_Pundir.pdf
 
 ---
 
